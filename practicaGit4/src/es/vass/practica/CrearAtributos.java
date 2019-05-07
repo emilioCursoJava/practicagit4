@@ -6,5 +6,12 @@ public class CrearAtributos {
 	public String crearAtributosAqui = "listaAtributos";
 	
 	
+	public String crearAtributosAquiDavidJose = "listaAtributosDavidJose";
 	
+	
+	public String crearAtributosAquiEdgarIvan= "listaAtributosEdgarIvan";
+
+	
+	public String crearAtributosAquiHanselJuan= "listaAtributosHanselJuan";
+
 }
