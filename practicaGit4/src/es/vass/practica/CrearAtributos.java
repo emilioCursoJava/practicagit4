@@ -6,7 +6,7 @@ public class CrearAtributos {
 	public String crearAtributosAqui = "listaAtributos";
 	
 	
-	public String crearAtributosAquiDavidJose = "listaAtributosDavidJose";
+	public String crearAtributosAquiDavidJose = "listaAtributosDavidJose--Vale";
 	
 	
 	public String crearAtributosAquiEdgarIvan= "listaAtributosEdgarIvan";
