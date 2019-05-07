@@ -12,6 +12,6 @@ public class CrearAtributos {
 	public String crearAtributosAquiEdgarIvan= "listaAtributosEdgarIvan---Ok";
 
 	
-	public String crearAtributosAquiHanselJuan= "listaAtributosHanselJuan";
+	public String crearAtributosAquiHanselJuan= "listaAtributosHanselJuan--vale";
 
 }
