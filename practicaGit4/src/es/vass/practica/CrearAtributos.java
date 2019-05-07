@@ -14,8 +14,8 @@ public class CrearAtributos {
 
 	
 	
-	public void metodoEmilioModificarJuan () {
-		System.out.println("Juan ---");
+	public void metodoEmilioModificarHansel () {
+		System.out.println("Hansel ---");
 	}
 
 
@@ -47,7 +47,7 @@ public class CrearAtributos {
 
 	
 
-	public String crearAtributosAquiHanselJuan2= "listaAtributosHanselJuan";
+	public String crearAtributosAquiHanselJuan2= "listaAtributosHanselJuan--vale";
 	
 	
 	
