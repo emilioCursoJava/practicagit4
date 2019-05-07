@@ -23,13 +23,13 @@ public class CrearAtributos {
 		System.out.println("Hansel --- ok");
 	}
 
-	public void metodoEmilioModificarEdgar () {
-		System.out.println("Edgar --- Ok");
+	public void metodoEmilioModificarIvan () {
+		System.out.println("Ivan --- Ok");
 	}
 
 	
-	public void metodoEmilioModificarIvan () {
-		System.out.println("Ivan --- OK_nueva Rama");
+	public void metodoEmilioModificarEdgar () {
+		System.out.println("Edgar --- OK_nueva Rama");
 	}
 
 
@@ -42,7 +42,7 @@ public class CrearAtributos {
 	}
 
 
-	public String crearAtributosAquiEdgarIvan2= "listaAtributosEdgarIvan";
+	public String crearAtributosAquiEdgarIvan2= "listaAtributosEdgarIvan--Vale";
 
 
 	
