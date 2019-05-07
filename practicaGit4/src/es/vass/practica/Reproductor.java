@@ -61,7 +61,7 @@ public void metodoEmilioModificarJuan () {
 
 
 public void metodoEmilioModificarHansel () {
-	System.out.println("Hansel --- ");
+	System.out.println("Hansel --- ok");
 }
 
 public void metodoEmilioModificarEdgar () {
