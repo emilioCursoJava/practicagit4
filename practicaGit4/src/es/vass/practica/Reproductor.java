@@ -56,7 +56,7 @@ public Reproductor(URL mediaURL)
 }
 
 public void metodoEmilioModificarJuan () {
-	System.out.println("Juan --- OK");
+	System.out.println("Juan ---");
 }
 
 

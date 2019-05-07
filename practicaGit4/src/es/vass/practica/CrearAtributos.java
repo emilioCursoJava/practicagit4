@@ -6,12 +6,15 @@ public class CrearAtributos {
 	public String crearAtributosAqui = "listaAtributos";
 	
 	
-	public String crearAtributosAquiDavidJose = "listaAtributosDavidJose--Vale";
-	
-	
-	public String crearAtributosAquiEdgarIvan= "listaAtributosEdgarIvan";
+
+	public String crearAtributosAquiDavidJose = "listaAtributosDavidJoseOK--Vale";
+
 
 	
-	public String crearAtributosAquiHanselJuan= "listaAtributosHanselJuan";
+	
+	public String crearAtributosAquiEdgarIvan= "listaAtributosEdgarIvan---Ok";
+
+	
+	public String crearAtributosAquiHanselJuan= "listaAtributosHanselJuan--vale";
 
 }
