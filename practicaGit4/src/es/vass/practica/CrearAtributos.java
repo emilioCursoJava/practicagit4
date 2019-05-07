@@ -8,7 +8,7 @@ public class CrearAtributos {
 	
 
 
-	public String crearAtributosAquiDavidJose = "listaAtributosDavidJose--OK--Vale--Vale";
+	public String crearAtributosAquiDavidJose = "listaAtributosDavidJoseOK";
 
 
 
@@ -35,12 +35,12 @@ public class CrearAtributos {
 	}
 
 
-	public void metodoEmilioModificarJose () {
-		System.out.println("Jose --- Ok");
+	public void metodoEmilioModificarDavid () {
+		System.out.println("David --- Ok---");
 	}
 
-	public void metodoEmilioModificarDavid () {
-		System.out.println("David --- OK");
+	public void metodoEmilioModificarJose () {
+		System.out.println("Jose --- OK----");
 	}
 
 
