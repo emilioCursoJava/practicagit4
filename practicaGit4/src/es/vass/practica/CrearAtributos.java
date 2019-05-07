@@ -7,18 +7,63 @@ public class CrearAtributos {
 	
 	
 
-	public String crearAtributosAquiDavidJose = "listaAtributosDavidJoseOK--Vale--OK";
+
+	public String crearAtributosAquiDavidJose = "listaAtributosDavidJose--OK--Vale--Vale";
+
+
+
+
+
+	
+	
+	public void metodoEmilioModificarJuan () {
+		System.out.println("Juan ---");
+	}
+
+
+	public void metodoEmilioModificarHansel () {
+		System.out.println("Hansel --- ok");
+	}
+
+	public void metodoEmilioModificarEdgar () {
+		System.out.println("Edgar --- Ok");
+	}
+
+	
+	public void metodoEmilioModificarIvan () {
+		System.out.println("Ivan --- OK_nueva Rama");
+	}
+
+
+	public void metodoEmilioModificarJose () {
+		System.out.println("Jose --- Ok");
+	}
+
+	public void metodoEmilioModificarDavid () {
+		System.out.println("David --- OK");
+	}
+
+
+	public String crearAtributosAquiEdgarIvan2= "listaAtributosEdgarIvan";
+
+
+	
+
+	public String crearAtributosAquiHanselJuan2= "listaAtributosHanselJuan";
+	
+	
+	
+	
+
+	public String crearAtributosAquiDavidJose2 = "listaAtributosDavidJose";
 
 
 	
 	
 
 
-	public String crearAtributosAquiEdgarIvan= "listaAtributosEdgarIvan---Ok--Vale";
-
-
 	
 
-	public String crearAtributosAquiHanselJuan= "listaAtributosHanselJuanOk--Vale";
-
+	
+	
 }
