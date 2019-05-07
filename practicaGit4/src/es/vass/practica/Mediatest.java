@@ -54,11 +54,11 @@ public void metodoEmilioModificarIvan () {
 
 
 public void metodoEmilioModificarJose () {
-	System.out.println("Jose ---");
+	System.out.println("Jose --- Ok");
 }
 
 public void metodoEmilioModificarDavid () {
-	System.out.println("David ---");
+	System.out.println("David --- OK");
 }
 
 }

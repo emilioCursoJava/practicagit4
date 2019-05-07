@@ -56,16 +56,16 @@ public Reproductor(URL mediaURL)
 }
 
 public void metodoEmilioModificarJuan () {
-	System.out.println("Juan ---");
+	System.out.println("Juan --- OK");
 }
 
 
 public void metodoEmilioModificarHansel () {
-	System.out.println("Hansel ---");
+	System.out.println("Hansel --- ok");
 }
 
 public void metodoEmilioModificarEdgar () {
-	System.out.println("Edgar ---");
+	System.out.println("Edgar --- Ok");
 }
 
 
