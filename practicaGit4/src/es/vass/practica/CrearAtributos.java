@@ -7,7 +7,7 @@ public class CrearAtributos {
 	
 	
 
-	public String crearAtributosAquiDavidJose = "listaAtributosDavidJoseOK--Vale";
+	public String crearAtributosAquiDavidJose = "listaAtributosDavidJoseOK--Vale--OK";
 
 
 	
