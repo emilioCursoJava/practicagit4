@@ -18,6 +18,7 @@ public class CrearAtributos {
 
 
 	
-	public String crearAtributosAquiHanselJuan= "listaAtributosHanselJuan--vale";
+
+	public String crearAtributosAquiHanselJuan= "listaAtributosHanselJuanOk--Vale";
 
 }
