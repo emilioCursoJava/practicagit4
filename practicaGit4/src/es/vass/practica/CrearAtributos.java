@@ -9,7 +9,10 @@ public class CrearAtributos {
 	public String crearAtributosAquiDavidJose = "listaAtributosDavidJoseOK";
 	
 	
-	public String crearAtributosAquiEdgarIvan= "listaAtributosEdgarIvan---Ok";
+
+
+	public String crearAtributosAquiEdgarIvan= "listaAtributosEdgarIvan---Ok--Vale";
+
 
 	
 	public String crearAtributosAquiHanselJuan= "listaAtributosHanselJuan--vale";
