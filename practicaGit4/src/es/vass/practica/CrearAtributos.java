@@ -7,6 +7,7 @@ public class CrearAtributos {
 	
 	
 
+
 	public String crearAtributosAquiDavidJose = "listaAtributosDavidJose--OK--Vale--Vale";
 
 
@@ -16,6 +17,14 @@ public class CrearAtributos {
 	
 	public void metodoEmilioModificarJuan () {
 		System.out.println("Juan ---");
+
+
+
+
+	
+	
+	public void metodoEmilioModificarHansel () {
+		System.out.println("Hansel ---");
 	}
 
 
@@ -25,11 +34,18 @@ public class CrearAtributos {
 
 	public void metodoEmilioModificarEdgar () {
 		System.out.println("Edgar --- Ok");
+	public void metodoEmilioModificarIvan () {
+		System.out.println("Ivan --- Ok");
+
 	}
 
 	
 	public void metodoEmilioModificarIvan () {
 		System.out.println("Ivan --- OK_nueva Rama");
+	
+	public void metodoEmilioModificarEdgar () {
+		System.out.println("Edgar --- OK_nueva Rama");
+
 	}
 
 
@@ -43,11 +59,22 @@ public class CrearAtributos {
 
 
 	public String crearAtributosAquiEdgarIvan2= "listaAtributosEdgarIvan";
+	public String crearAtributosAquiEdgarIvan2= "listaAtributosEdgarIvan--Vale";
+	public String crearAtributosAquiEdgarIvan2= "listaAtributosEdgarIvan--Vale--Ok";
 
 
 	
 
 	public String crearAtributosAquiHanselJuan2= "listaAtributosHanselJuanOk";
+	
+	
+	
+	
+
+
+	
+
+	public String crearAtributosAquiHanselJuan2= "listaAtributosHanselJuan--vale";
 	
 	
 	
