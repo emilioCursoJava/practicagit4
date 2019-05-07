@@ -44,7 +44,7 @@ public class CrearAtributos {
 	}
 
 
-	public String crearAtributosAquiEdgarIvan2= "listaAtributosEdgarIvan";
+	public String crearAtributosAquiEdgarIvan2= "listaAtributosEdgarIvan--Vale";
 
 
 	
